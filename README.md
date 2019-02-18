@@ -6,3 +6,4 @@ Branch panaudojimo pavyzdys
 * [1 dalis](https://github.com/A-Igumenov/PVZ_GIT_Project/tree/1-dalis)
 * [2 dalis](https://github.com/A-Igumenov/PVZ_GIT_Project/tree/2-dalis)
 * [3 dalis](https://github.com/A-Igumenov/PVZ_GIT_Project/tree/3-dalis)
+* [4 dalis](https://github.com/A-Igumenov/PVZ_GIT_Project/tree/4-dalis)

@@ -10,9 +10,9 @@ Branch panaudojimo pavyzdys
 
 Formulių įdejimo seka:
 1. Atverkite [puslapį](http://latex.codecogs.com/eqneditor/editor.php). 
-2. surinkite reikiamą formulę. 
+2. Surinkite reikiamą formulę. 
 3. Iškveskitė ant paveiksliuko kontekstinį meniu ir pasirinkitė kompijuoti paveiksliuko nuorodą. 
-4. MD faile naudojame paveiksliukų įdejimo sintaksė `![1p](2p)`
+4. MD faile naudojame paveiksliukų įdejimo sintaksė `![1p](2p)`\
     *1p - paveiksliuko užvardinimas.
     *2p - nukopijuota nuoroda.\
 Pvz.:

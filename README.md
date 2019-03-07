@@ -15,8 +15,8 @@ Formulių įdejimo seka:
 4. MD faile naudojame paveiksliukų įdejimo sintaksė `![1p](2p)`
     * 1p - paveiksliuko užvardinimas.
     * 2p - nukopijuota nuoroda.
-Pvz.:
-![](http://latex.codecogs.com/gif.latex?Y%3D%5Cfrac%7Bx%7D%7B1-5%7D%5Csum_%7B-10%7D%5E%7B100%7D%20x%5E%7B10%7D)
+    
+Pvz.: ![](http://latex.codecogs.com/gif.latex?Y%3D%5Cfrac%7Bx%7D%7B1-5%7D%5Csum_%7B-10%7D%5E%7B100%7D%20x%5E%7B10%7D)
 
 Matlab kodo pvz.:
 ```matlab

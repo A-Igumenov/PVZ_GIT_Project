@@ -9,7 +9,7 @@ Branch panaudojimo pavyzdys
 * [4 dalis](https://github.com/A-Igumenov/PVZ_GIT_Project/tree/4-dalis)
 
 Formulių įdejimo seka:
-1. Atverkite [puslapį](http://latex.codecogs.com/eqneditor/editor.php). 
+1. Atverkite [puslapį](https://codecogs.com/latex/eqneditor.php). 
 2. Surinkite reikiamą formulę. 
 3. Iškveskite ant paveiksliuko kontekstinį meniu ir pasirinkite kopijuoti paveiksliuko nuorodą. 
 4. MD faile naudojame paveiksliukų įdėjimo sintaksę `![1p](2p)`

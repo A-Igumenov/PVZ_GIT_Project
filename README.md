@@ -16,7 +16,7 @@ Formulių įdejimo seka:
     * 1p - paveiksliuko užvadinimas.
     * 2p - nukopijuota nuoroda.
    
-Pvz.: ![](http://latex.codecogs.com/gif.latex?Y%3D%5Cfrac%7Bx%7D%7B1-5%7D%5Csum_%7B-10%7D%5E%7B100%7D%20x%5E%7B10%7D)
+Pvz.: ![](https://latex.codecogs.com/svg.latex?Y%3D%5Csum_%7B1%7D%5E%7B100%7D%28x%5E%7B2%7D-1%29-%5Csqrt%5B3%5D%7Bx&plus;1%7DD)
 
 Matlab kodo pvz.:
 ```matlab

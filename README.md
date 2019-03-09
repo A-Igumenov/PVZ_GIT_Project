@@ -20,6 +20,10 @@ Pvz.: ![](https://latex.codecogs.com/gif.latex?Y%3D%5Csum_%7B1%7D%5E%7B100%7D%28
 
 [//]: <(Y=\sum_{1}^{100}(x^{2}-1)-\sqrt[3]{x+1})>
 
+Komentaras md failuose
+```md
+[//]: <(Y=\sum_{1}^{100}(x^{2}-1)-\sqrt[3]{x+1})>
+```
 Matlab kodo pvz.:
 ```matlab
 function f = fact(n)

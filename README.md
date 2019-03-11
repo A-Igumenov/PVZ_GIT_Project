@@ -26,14 +26,14 @@ Komentaras md failuose
 Pvz.:
 [//]: <(Y=\sum_{1}^{100}(x^{2}-1)-\sqrt[3]{x+1})>
 ```
-Matlab kodo pvz.: \
+Matlab kodo pvz.: 
 ```matlab
 function f = fact(n)
     f = prod(1:n);
 end
 ``` 
 
-C# kodo pvz.: \
+C# kodo pvz.: 
 ```csharp
 using System;
 

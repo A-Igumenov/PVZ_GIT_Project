@@ -27,23 +27,12 @@ Pvz.:
 [//]: <(Y=\sum_{1}^{100}(x^{2}-1)-\sqrt[3]{x+1})>
 ```
 Matlab kodo pvz.:\
-
 ```matlab
 function f = fact(n)
     f = prod(1:n);
 end
-```
-\
-```
-```matlab
-function f = fact(n)
-    f = prod(1:n);
-end
-```
-```
-\
+```\
 C# kodo pvz.:\
-\
 ```csharp
 using System;
 
@@ -56,21 +45,4 @@ namespace HelloWorldApplication {
       }
    }
 }
-```
-\
-
-```
-```csharp
-using System;
-
-namespace HelloWorldApplication {
-   class HelloWorld {
-      static void Main(string[] args) {
-         /* my first program in C# */
-         Console.WriteLine("Hello World");
-         Console.ReadKey();
-      }
-   }
-}
-```
 ```

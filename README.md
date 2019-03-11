@@ -33,17 +33,17 @@ function f = fact(n)
     f = prod(1:n);
 end
 ```
-
+\
 ```
 ```matlab
 function f = fact(n)
     f = prod(1:n);
 end
 ```
-```\
-
+```
+\
 C# kodo pvz.:\
-
+\
 ```csharp
 using System;
 
@@ -57,7 +57,7 @@ namespace HelloWorldApplication {
    }
 }
 ```
-
+\
 
 ```
 ```csharp

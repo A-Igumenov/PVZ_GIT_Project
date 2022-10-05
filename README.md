@@ -18,7 +18,7 @@ Formulių įdejimo seka:
     * 2p - nukopijuota nuoroda.
    
 Pvz.: ![](https://latex.codecogs.com/gif.latex?Y%3D%5Csum_%7B1%7D%5E%7B100%7D%28x%5E%7B2%7D-1%29-%5Csqrt%5B3%5D%7Bx&plus;1%7D)
-
+![](https://latex.codecogs.com/png.image?\LARGE&space;\dpi{200}x=128\sum_{0}^{n}125\tfrac{a&plus;b}{i})
 [//]: <(Y=\sum_{1}^{100}(x^{2}-1)-\sqrt[3]{x+1})>
 
 Komentaras md failuose
